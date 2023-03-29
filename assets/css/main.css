@@ -47,6 +47,14 @@ a:hover {
   color: #32cf93;
   text-decoration: none;
 }
+.logo{
+  background-color: #000;
+  border-radius: 8px;
+}
+
+.heading_logo_name:hover{
+  transform: translateY(-2px);
+}
 
 h1,
 h2,
