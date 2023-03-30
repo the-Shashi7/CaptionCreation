@@ -42,6 +42,10 @@ a {
   color: var(--color-primary);
   text-decoration: none;
 }
+input[type="file"] {
+  color: transparent;
+  position: absolute;
+}
 
 a:hover {
   color: #32cf93;
